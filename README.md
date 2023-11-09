@@ -1,2 +1,2 @@
-# order-exp-api
-order api details
+# payment-api
+payment related api
